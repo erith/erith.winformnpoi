@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menulist>
+  <menu title="분류1">
+    <menulist>
+      <menu title="분류1-1"></menu>
+      <menu title="분류1-2"></menu>
+      <menu title="분류1-3"></menu>
+     </menulist>
+  </menu>
+  <menu title="분류2">
+    <menulist>
+      <menu title="분류2-1"></menu>
+      <menu title="분류2-2"></menu>
+      <menu title="분류2-3"></menu>
+    </menulist>        
+  </menu>
+  <menu title="분류3">
+    <menulist>
+      <menu title="분류3-1"></menu>
+      <menu title="분류3-2"></menu>
+      <menu title="분류3-3"></menu>
+    </menulist>
+  </menu>
+  <menu title="분류4">
+    <menulist>
+      <menu title="분류4-1"></menu>
+      <menu title="분류4-2"></menu>
+      <menu title="분류4-3"></menu>
+    </menulist>
+  </menu>
+</menulist>
